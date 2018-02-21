@@ -1,0 +1,28 @@
+.formulaire{
+	margin:15px;
+}
+.name {
+	font-size:0.75em;
+	font-family:Arial, Helvetica, sans-serif;
+	display:block;
+	margin:5px 0px 5px 0px;
+	padding-top:5px;
+	border-top:2px solid #4f5407;
+}
+.name b{
+	color:#4f5407;
+	font-size: 1.2em !important;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	padding: 0 !important;
+}
+.formulaire a{
+	color:#b7ce42;
+	font-weight:bold;
+}
+fieldset{
+	border:none;
+}
+.txt{
+	font-size:0.75em;
+}

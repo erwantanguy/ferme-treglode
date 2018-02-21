@@ -1,0 +1,8 @@
+CREATE TABLE guestbook (
+  id mediumint(8) unsigned NOT NULL auto_increment,
+  date int(10) unsigned NOT NULL default '0',
+  name varchar(50) NOT NULL default '',
+  email varchar(100) NOT NULL default '',
+  comment text NOT NULL,
+  PRIMARY KEY  (id)
+);
